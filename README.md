@@ -25,7 +25,7 @@ Most people think their music taste is more niche than it actually is.
 ## How To Run It
 
 ### 1. Clone the repo
-git clone https://github.com/yourusername/is-this-niche.git
+git clone https://github.com/sanjayrahulcodes/is-this-niche.git
 cd is-this-niche
 
 ### 2. Install dependencies
